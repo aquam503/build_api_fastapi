@@ -110,7 +110,7 @@ This repository contains a simple FastAPI application that demonstrates how to p
 ## Project Structure
 
 ```
-fastapi-csv-crud/
+fastapi-csv/
 ├── main.py        # FastAPI application code
 ├── data.csv       # CSV file storing items
 └── README.md      # Project documentation
