@@ -21,7 +21,7 @@ This repository contains a simple FastAPI application that demonstrates how to p
 1. Clone the repository:
    ```bash
    git clone https://github.com/aquam503/fastapi-csv.git
-   cd fastapi-csv-crud
+   cd fastapi-csv
    ```
 
 2. Install the required dependencies:
