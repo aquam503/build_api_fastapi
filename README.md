@@ -1,6 +1,6 @@
-# FastAPI CSV CRUD Application
+# FastAPI CSV Application
 
-This repository contains a simple FastAPI application that demonstrates how to perform CRUD (Create, Read, Update, Delete) operations on a CSV file. The application allows you to interact with a CSV file (`data.csv`) through RESTful API endpoints.
+This repository contains a simple FastAPI application that demonstrates how to perform operations on a CSV file. The application allows you to interact with a CSV file (`data.csv`) through RESTful API endpoints.
 
 ## Features
 
@@ -20,7 +20,7 @@ This repository contains a simple FastAPI application that demonstrates how to p
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/fastapi-csv-crud.git
+   git clone https://github.com/<your-username>/fastapi-csv.git
    cd fastapi-csv-crud
    ```
 
