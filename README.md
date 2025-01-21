@@ -20,7 +20,7 @@ This repository contains a simple FastAPI application that demonstrates how to p
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/fastapi-csv.git
+   git clone https://github.com/aquam503/fastapi-csv.git
    cd fastapi-csv-crud
    ```
 
